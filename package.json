@@ -1,6 +1,6 @@
 {
   "name": "smart-async-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A process queue written in async/await way in ES7+(ES8).",
   "main": "index.js",
   "scripts": {
