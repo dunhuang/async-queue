@@ -1,5 +1,5 @@
-# async-queue
-An queue class written via async/await way in ES7+(ES8).  
+# smart-async-queue
+A process queue written in async/await way in ES7+(ES8).  
 
 
 # Introduction 简介
