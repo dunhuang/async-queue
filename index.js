@@ -1,3 +1,3 @@
-import Queue from './src/Queue';
+let Queue = require('./dist/Queue')
 
-export default Queue;
+module.exports = Queue;
