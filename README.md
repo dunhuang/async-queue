@@ -9,6 +9,16 @@ Each one process includes series of async functions and returns a promise.
 
 # Usage 使用
 
+### npm
+
+```
+npm install smart-async-queue
+```
+
+```
+import Queue from 'smart-async-queue';
+```
+
 ### init 初始化
 ```
 let queue = new Queue();
